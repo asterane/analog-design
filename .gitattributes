@@ -1,0 +1,3 @@
+*.asc linguist-language=LTspice-Schematic
+*.net linguist-detectable
+*.net linguist-language=LTspice-Netlist
